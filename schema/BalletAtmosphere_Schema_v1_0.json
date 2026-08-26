@@ -35,3 +35,19 @@
   },
   "status": "atmosphere-schema"
 }
+
+---
+Artifact: BalletAtmosphere_Schema v1_0
+Lane: NDH-Ballet • Schema
+Altitude: CONSTELLATION
+Status: Canonical • Non-Operational • Membrane-Safe
+
+Purpose:
+  Define machine-readable atmospheric domain structures for NDH-Ballet at
+  CONSTELLATION altitude, including mood geometry, resonance fields, affective
+  gradients, lighting logic, and atmospheric lift.
+
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 26 August 2026 — 12:22 IST
+---
