@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "artifact": "BalletAtmosphere_Schema",
+  "altitude": "CONSTELLATION",
+  "domains": {
+    "mood_geometry": {
+      "types": ["warm", "cool", "dense", "sparse"],
+      "shapes": ["halo", "wave", "veil", "spiral", "field"]
+    },
+    "resonance_fields": {
+      "dhvani_zones": ["soft", "dense", "translucent", "opaque"],
+      "shared_field_corridors": ["linear", "diffuse", "concentric", "interwoven"],
+      "vibrational_nodes": ["high_intensity", "low_intensity", "transient", "persistent"],
+      "atmospheric_channels": ["warm", "cool", "chromatic", "monochrome"],
+      "lift_resonance_bands": ["devotional", "transcendent", "immersive"]
+    },
+    "affective_gradients": {
+      "types": ["soft", "steep", "diffuse", "focused"],
+      "directions": ["upward", "downward", "lateral", "radial"]
+    },
+    "lighting_logic": {
+      "modes": ["luminous", "dim", "chromatic", "monochrome"]
+    },
+    "atmospheric_lift": {
+      "modes": ["devotional", "transcendent", "immersive"]
+    }
+  },
+  "rules": {
+    "non_operational": true,
+    "no_geometry_activation": true,
+    "no_traversal": true,
+    "no_projection": true,
+    "no_altitude_descent": true,
+    "no_membrane_inversion": true
+  },
+  "status": "atmosphere-schema"
+}
