@@ -1,0 +1,80 @@
+# 🧬 **ResonanceField_Schema v1.0 (Correct Provenance Placement)**
+
+```json
+{
+  "version": "1.0",
+  "artifact": "ResonanceField_Schema",
+  "altitude": "CONSTELLATION",
+  "resonance_fields": {
+    "dhvani_zones": {
+      "types": ["soft", "dense", "translucent", "opaque"],
+      "properties": {
+        "semantic_saturation": ["low", "medium", "high"],
+        "resonance_clarity": ["subtle", "clear", "intense"]
+      }
+    },
+    "shared_field_corridors": {
+      "types": ["linear", "diffuse", "concentric", "interwoven"],
+      "properties": {
+        "attunement_strength": ["weak", "moderate", "strong"],
+        "corridor_width": ["narrow", "broad"]
+      }
+    },
+    "vibrational_nodes": {
+      "types": ["high_intensity", "low_intensity", "transient", "persistent"],
+      "properties": {
+        "duration": ["momentary", "sustained"],
+        "affective_weight": ["light", "heavy"]
+      }
+    },
+    "atmospheric_channels": {
+      "types": ["warm", "cool", "chromatic", "monochrome"],
+      "properties": {
+        "flow_rate": ["gentle", "steady", "rapid"],
+        "affective_direction": ["upward", "downward", "lateral", "radial"]
+      }
+    },
+    "lift_resonance_bands": {
+      "types": ["devotional", "transcendent", "immersive"],
+      "properties": {
+        "elevation_intensity": ["soft", "strong"],
+        "immersion_depth": ["shallow", "deep"]
+      }
+    }
+  },
+  "rules": {
+    "non_operational": true,
+    "semantic_only": true,
+    "no_geometry_activation": true,
+    "no_membrane_inversion": true,
+    "no_traversal": true,
+    "no_projection": true
+  },
+  "status": "resonance-schema"
+}
+```
+
+---
+
+## 📜 **Provenance Footer (Outside JSON)**
+
+```
+---
+Artifact: ResonanceField_Schema v1_0
+Lane: NDH-Ballet • Schema
+Altitude: CONSTELLATION
+Status: Canonical • Non-Operational • Membrane-Safe
+
+Purpose:
+  Define machine-readable resonance-field structures for NDH-Ballet at
+  CONSTELLATION altitude, including dhvani zones, shared-field corridors,
+  vibrational nodes, atmospheric channels, and lift-resonance bands.
+
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 26 August 2026 — 12:28 IST
+---
+```
+
+---
+
